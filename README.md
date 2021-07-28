@@ -7,6 +7,7 @@
 
 - 🔭 I’m currently working on [Radisson Digital Technologies Limited](https://radissonbd.com/)
 - 🔭 Previously working on [DevsZone](https://www.devszone.com/)
+- 🔭 Before that I Intern for [Ezze Technology Ltd](http://etl.com.bd/)
 
 - 📫 How to reach me **alaminmia.jobs@gmail.com**
 
