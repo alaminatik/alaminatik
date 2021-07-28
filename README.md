@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alamin Mia</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate web developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alaminatik&label=Profile%20views&color=0e75b6&style=flat" alt="alaminatik" /> </p>
 
@@ -8,6 +8,7 @@
 <p align="left"> <a href="https://twitter.com/alamin555" target="blank"><img src="https://img.shields.io/twitter/follow/alamin555?logo=twitter&style=for-the-badge" alt="alamin555" /></a> </p>
 
 - 🔭 I’m currently working on [Radisson Digital Technologies Limited](https://radissonbd.com/)
+- 🔭 Previously working on [DevsZone](https://www.devszone.com/)
 
 - 📫 How to reach me **alaminmia.jobs@gmail.com**
 
