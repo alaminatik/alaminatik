@@ -6,9 +6,9 @@ Welcome to my profile! Currently i'm working at [Radisson Digital Technologies L
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://alaminatik.github.io)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/shipu_ahamed)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-0088cc?style=flat-square&logo=Facebook&logoColor=white)](https://facebook.com/alaminmia4)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=shipu.shipu)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=alaminatik)
 
-![Shipu's github stats](https://github-readme-stats.vercel.app/api?username=shipu&show_icons=true)
+![Alamin's github stats](https://github-readme-stats.vercel.app/api?username=alaminatik&show_icons=true)
 
 
 ### Show some ❤️ by starring some of the repositories!
